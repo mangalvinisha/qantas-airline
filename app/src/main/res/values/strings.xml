@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Qantas</string>
+    <string name="back">Back</string>
+    <string name="airport">%s Airport</string>
+    <string name="country">Country:  %s </string>
+    <string name="timezone">Timezone:  %s </string>
+    <string name="lat_long">Latitude:  %1s - Longitude:  %2s</string>
+    <string name="placeholder_text">Dummy Text</string>
+</resources>
