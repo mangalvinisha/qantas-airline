@@ -11,3 +11,8 @@
 /build
 /captures
 .externalNativeBuild
+.cxx
+local.properties
+vcs.xml
+sonarIssues.xml
+index.pb
